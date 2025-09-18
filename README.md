@@ -26,4 +26,4 @@
 2. Open terminal in the project folder
 3. Run:
    ```bash
-   python Book_Manger.py
+   python Book_Manager.py
